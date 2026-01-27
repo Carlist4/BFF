@@ -1,0 +1,7 @@
+﻿geographic_region_arabia = {
+	short_key = "arabia"
+	
+	strategic_regions = {
+		sr:region_arabic
+	}
+}

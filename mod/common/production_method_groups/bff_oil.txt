@@ -1,0 +1,9 @@
+﻿REPLACE:pmg_base_building_oil_rig = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		pm_liquid_oil_well
+		pm_steam_derricks
+        pm_combustion_derricks
+        pm_liquid_oil_derricks
+	}
+}
