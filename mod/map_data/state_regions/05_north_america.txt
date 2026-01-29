@@ -204,7 +204,7 @@ STATE_WYOMING = {
     arable_land = 160
     arable_resources = { "building_wheat_farm" "building_livestock_ranch" }
     capped_resources = {
-        building_coal_mine = 48
+        building_coal_mine = 80
         building_logging_camp = 13
     }
     resource = {
