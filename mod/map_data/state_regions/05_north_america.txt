@@ -1443,7 +1443,7 @@ STATE_YUCATAN = {
     arable_land = 80
     arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_sugar_plantation" "building_banana_plantation" }
     capped_resources = {
-        building_logging_camp = 18
+        building_logging_camp = 22
         building_fishing_wharf = 9
     }
     resource = {
@@ -1519,7 +1519,7 @@ STATE_GUERRERO = {
     capped_resources = {
         building_coal_mine = 24
         building_lead_mine = 15
-        building_logging_camp = 8
+        building_logging_camp = 12
         building_fishing_wharf = 4
     }
     resource = {
@@ -1549,7 +1549,7 @@ STATE_OAXACA = {
     capped_resources = {
         building_coal_mine = 24
         building_lead_mine = 15
-        building_logging_camp = 7
+        building_logging_camp = 12
         building_fishing_wharf = 4
     }
     resource = {
@@ -1622,7 +1622,7 @@ STATE_CHIAPAS = {
     arable_land = 40
     arable_resources = { "building_maize_farm" "building_livestock_ranch" "building_coffee_plantation" "building_dye_plantation" "building_tobacco_plantation" "building_sugar_plantation" "building_banana_plantation" }
     capped_resources = {
-        building_logging_camp = 14
+        building_logging_camp = 18
         building_fishing_wharf = 7
     }
     resource = {
